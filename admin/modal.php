@@ -116,11 +116,11 @@
        <div class="col-lg-4">
          <form action="subir.php" method="post" enctype="multipart/form-data">
           <div class="form-group">
-              <label for="my-input">Seleccione una Imagen</label>
+              <label for="my-input">Seleccione una Imagen ...</label>
               <input id="my-input"  type="file" name="imagen">
           </div>
           <div class="form-group">
-              <label for="my-input">Titulo de la Imagen</label>
+              <label for="my-input">Titulo</label>
               <input id="my-input" class="form-control" type="text" name="titulo">
           </div>
           <?php if(isset($_SESSION['mensaje'])){ ?>

@@ -4,7 +4,7 @@
 			<a class="navbar-brand" style="position: relative"> <img src="../logo/unknown.png" alt="logo" style="position: relative; top: -13px;   width: 2.3vw;
    height: 2.3vw"></a>
 		</div>
-        <div><a class="navbar-brand">INFAM Perú/Centro Patricio Peyton</a></div>
+        <div><a class="navbar-brand">INFAM Perú / Centro Patricio Peyton</a></div>
 		
 		<ul class="nav navbar-nav">
 			<li><a href="index.php"><span class="glyphicon glyphicon-list"></span> Grupos de cursos</a></li>
